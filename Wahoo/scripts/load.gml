@@ -8,13 +8,13 @@ sprite_change_offset("dashstart", 25, 44);
 sprite_change_offset("dashstop", 25, 44);
 sprite_change_offset("dashturn", 25, 44);
 
-sprite_change_offset("jumpstart", 0, 0);
-sprite_change_offset("jump", 0, 0);
-sprite_change_offset("doublejump", 0, 0);
+sprite_change_offset("jumpstart", 25, 44);
+sprite_change_offset("jump", 25, 44);
+sprite_change_offset("doublejump", 25, 44);
 sprite_change_offset("walljump", 0, 0);
 sprite_change_offset("pratfall", 0, 0);
-sprite_change_offset("land", 0, 0);
-sprite_change_offset("landinglag", 0, 0);
+sprite_change_offset("land", 25, 44);
+sprite_change_offset("landinglag", 25, 44);
 
 sprite_change_offset("parry", 0, 0);
 sprite_change_offset("roll_forward", 0, 0);
